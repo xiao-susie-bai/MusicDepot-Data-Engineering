@@ -7,4 +7,6 @@ Therefore, through this project for a music online streaming startup, I would lo
 
 In this project, I build a data pipeline with data quality checks and orchestration, moving data through different zones following a Medallion data lake architecture and throughout the data engineering lifecycle -- including data ingestion, storage, transformation, and finally serving to downstream marketing analytics stakeholders. AWS services (S3, AWS Glue (including AWS Glue Data Quality), Amazon Redshift with Spectrum, CloudFormation), Terraform, Airflow, dbt, as well as SQL and Python, are some of the tools used in this project.
 
+To get a better understanding of this project, please check the "Music Depot Data Engineering Project" Powerpoint deck for reference. Relevant code files are also included.
+
 Let's go!
