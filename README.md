@@ -1,4 +1,4 @@
-# Music Depot Data Engineering <br/> -- Data Pipelining with ETL, Data Modeling and DataOps for a music streaming service
+# Music Depot Data Engineering <br/> ## -- Data Pipelining with ETL, Data Modeling and DataOps for a music streaming service
 
 Hey there! Welcome to my latest project in the exciting domain of Data Engineering.
 
